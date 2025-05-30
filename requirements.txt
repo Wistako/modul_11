@@ -1,6 +1,7 @@
 plotly==5.11.0
 chart-studio==1.1.0
 cufflinks==0.17.3
+dash
 pandas
 nptyping
 nbformat==4.2.0
